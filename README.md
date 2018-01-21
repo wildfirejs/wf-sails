@@ -28,4 +28,4 @@ Now you can run [`wf-sails-client`](https://github.com/wildfirejs/wf-sails-clien
 
 1. Sign up
 
-2. Open './.tmp/localDiskDb.db', find your user data, and manually change the `isAdmin` field to `true`.
+2. Open `./.tmp/localDiskDb.db`, find your user data, and manually change the value of `isAdmin` field to `true`.
