@@ -22,4 +22,4 @@ sails lift
 
 Your server will be run on `http://0.0.0.0:1337`. 
 
-Now it's time to run the client.
+Now you can run [`wf-sails-client`](https://github.com/wildfirejs/wf-sails-client).
