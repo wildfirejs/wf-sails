@@ -23,3 +23,9 @@ sails lift
 Your server will be run on `http://0.0.0.0:1337`. 
 
 Now you can run [`wf-sails-client`](https://github.com/wildfirejs/wf-sails-client).
+
+## How to set Admin user?
+
+1. Sign up
+
+2. Open './.tmp/localDiskDb.db', find your user data, and manually change the `isAdmin` field to `true`.
