@@ -1,4 +1,4 @@
-# wf-sails
+# wf-sails-server
 
 Host your wildfire database yourself.
 
